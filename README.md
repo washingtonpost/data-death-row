@@ -8,7 +8,7 @@ The data includes more than 2,000 people sentenced to death in state courts, 40 
 
 Reporters also compiled data as of Nov. 13, 2024, from three states — California, Texas and North Carolina — on individuals who had been sentenced to death but were not executed. These states account for 44 percent of all current U.S. death row inmates. Reporters manually categorized the reason each individual left death row.
 
-Please reach out with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](https://github.com/washingtonpost/data-school-shootings/blob/master/CODE_OF_CONDUCT.md).
+Please reach out with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](https://github.com/washingtonpost/data-death-row/blob/master/CODE_OF_CONDUCT.md).
 
 # Credits:
 
@@ -16,11 +16,5 @@ Writing and reporting by [Mark Berman](https://www.washingtonpost.com/people/mar
 
 Editing by Efraín Hernández Jr. and Debbi Wilgoren. Photo editing by Natalia Jiménez. Design editing by Madison Walls. Graphics editing by Reuben Fischer-Baum. Data editing by Meghan Hoyer. Copy editing by Kim Chapman. Design and development by Agnes Lee. Video editing by Whitney Leaming. Video graphics by Sarah Hashemi and Daron Taylor.
 
-
-Research and Reporting: [Mark Berman](https://www.washingtonpost.com/people/mark-berman/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/)
-
-Production and Presentation: 
-
-Editing: 
 
 [This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
