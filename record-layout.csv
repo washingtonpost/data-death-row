@@ -1,0 +1,23 @@
+Field Number,Field Name,Description,Variable,Definition
+1,uid,Unique identifier,,
+2,first,First name of inmate,,
+3,middle,Middle name or initial of inmate,,
+4,last,Last name of inmate,,
+5,suffix,Suffix of inmate,,
+6,gender,Gender of inmate,M,Male
+,,,F,Female
+7,race,Race and ethnicity of inmate,A,Asian
+,,,B,Black
+,,,BH,"Black, Hispanic"
+,,,H,Hispanic
+,,,N,American Indian
+,,,O,Other
+,,,W,"White, Non-Hispanic"
+8,age,Current age of inmate,,
+9,age-at-conviction,Age at the time of conviction for inmate,,
+10,location,Location of inmate,,
+11,sentence-date,Date sentenced to death,,
+12,sentence-year,Year sentenced to death,,
+13,county,County of Conviction,,
+14,state,State of conviction,,
+15,as-of,Date state last updated death row roster data,,
